@@ -1,2 +1,2 @@
 # dvala041.github.io
-My personal portfolio showcasing project's I've worked on
+My personal github page where I will be showcasing my projects among other things
